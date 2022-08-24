@@ -25,6 +25,16 @@ public class Ch1Notes
         long n2 = 3;
         short n3 = 7;
         
+        //notes 8/24/22
+        //identifier cannot start with a number, no spaces, 
+        //can only include _ and $ as special characters, no reserve words, 
+        //and only 40 characters
+        
+        //reserved words = boolean, if, main, void, etc.
+        
+        //String var = new String("bruh")
+        
+        //System.out.println("5 + 4 = " + 5 + 4)    outputs -> 5 + 4 = 54
         
         //these are classes and objects
         //class     ID          memory  construction
